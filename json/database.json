@@ -1,0 +1,5 @@
+[
+  {"word":"sys_user","freq":1,"score":300,"meta":"table"},
+  {"word":"sys_menu","freq":2,"score":300,"meta":"table"},
+  {"word":"menu_name","freq":3,"score":100,"meta":"column"}
+]
